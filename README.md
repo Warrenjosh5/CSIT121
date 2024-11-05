@@ -7,5 +7,5 @@ WEB STANDARDS CLASS
 <li> <a href= "lab03/index.html">This is my validated lab 3. </a> </li>
 <li> <a href="lab04/index.html">Lab 4 </a></li>
 <li> <a href="lab05/index.html">Lab 5 needs corrections</a></li>
-<li> <a href="lab07/tierlist.html">Lab 7</li>
+<li> <a href="lab07/tierlist.html">Lab 7 </a></li>
 </ul>
