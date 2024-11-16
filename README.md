@@ -9,5 +9,5 @@ WEB STANDARDS CLASS
 <li> <a href="lab05/index.html">Lab 5 needs corrections</a></li>
 <li> <a href="lab07/tierlist.html">Lab 7 needs to be corrected </a></li>
 <li> <a href="lab08/index.html">Lab 8 completed.</a></li>
-<li> <a href= "ab09/index.html">Lab 9 completed.</a></li>
+<li> <a href= "lab09/index.html">Lab 9 completed.</a></li>
 </ul>
